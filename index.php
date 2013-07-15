@@ -119,7 +119,7 @@
 						
 						// Play level music						
 						assetMgr.sounds['music2'].play({ loops: 10});
-					
+											
 					});
 					
 				});
